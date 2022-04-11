@@ -1,6 +1,6 @@
 # Willis Tower Watson Test Application (BackEnd)
 
-Api Rest Application desarrollada para prueba práctica de aplicación a Willis Towers Watson
+Api Rest desarrollada para prueba práctica de aplicación a Willis Towers Watson
 
 ### Especificaciones e implementaciones:
 - Desarrollado con .Net 5.0
